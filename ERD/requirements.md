@@ -77,5 +77,5 @@ Create an Entity-Relationship (ER) diagram based on the database specification.
 > See the diagram image below (add after creating it using Draw.io or dbdiagram.io):
 
 ```markdown
-
+![airbnb-er-diagram](https://github.com/user-attachments/assets/36d6c46f-8159-4082-805d-374c42b7f2c1)
 
